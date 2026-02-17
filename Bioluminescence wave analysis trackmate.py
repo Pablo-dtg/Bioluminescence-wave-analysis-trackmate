@@ -1,12 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 20 15:39:15 2023
-
-@author: pdetorresgutierrez
-"""
-
-# -*- coding: utf-8 -*-
-"""
 Created on Mon Dec 18 16:58:22 2023
 
 @author: pdetorresgutierrez
@@ -1763,3 +1756,4 @@ for value in range(len(unique_values)):
     
     plt.savefig(fig_folder + '\Map_SCN_period_cycle_'+str(value+1),dpi=600)
     plt.show()
+
