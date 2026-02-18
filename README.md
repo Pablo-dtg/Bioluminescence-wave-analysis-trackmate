@@ -1,5 +1,5 @@
 # Bioluminescence-wave-analysis-trackmate
-This script allows the analysis of traces obtained using the module Trackmate<br/>
+This script allows the analysis of traces obtained using the module Trackmate (ImageJ)<br/>
 Python version  - 3.8.10<br/>
 <br/>
 The script uses .csv files derived from the ImageJ module Trackmate as input. The excel files (https://pubmed.ncbi.nlm.nih.gov/27713081/)<br/>
